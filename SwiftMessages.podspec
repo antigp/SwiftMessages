@@ -2,10 +2,10 @@ Pod::Spec.new do |spec|
     spec.name             = 'SwiftMessages'
     spec.version          = '4.1.4'
     spec.license          = { :type => 'MIT' }
-    spec.homepage         = 'https://github.com/SwiftKickMobile/SwiftMessages'
+    spec.homepage         = 'https://github.com/antigp/SwiftMessages'
     spec.authors          = { 'Timothy Moose' => 'tim@swiftkick.it' }
     spec.summary          = 'A very flexible message bar for iOS written in Swift.'
-    spec.source           = {:git => 'https://github.com/SwiftKickMobile/SwiftMessages.git', :tag => '4.1.4'}
+    spec.source           = {:git => 'https://github.com/antigp/SwiftMessages.git', :tag => '4.1.4-swift4.2'}
     spec.platform         = :ios, '8.0'
     spec.ios.deployment_target = '8.0'
     spec.framework        = 'UIKit'
