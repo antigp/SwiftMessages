@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
     spec.name             = 'SwiftMessages'
-    spec.version          = '4.1.4'
+    spec.version          = '4.1.4a'
     spec.license          = { :type => 'MIT' }
     spec.homepage         = 'https://github.com/antigp/SwiftMessages'
     spec.authors          = { 'Timothy Moose' => 'tim@swiftkick.it' }
